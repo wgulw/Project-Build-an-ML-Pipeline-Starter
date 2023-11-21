@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/4b23af5a9eca4450952275ec13725b46/artifacts
+end_time: 1700596398900
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4b23af5a9eca4450952275ec13725b46
+run_name: chill-boar-645
+run_uuid: 4b23af5a9eca4450952275ec13725b46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700596379355
+status: 3
+tags: []
+user_id: lylewilliams

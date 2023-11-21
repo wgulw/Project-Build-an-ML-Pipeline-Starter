@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a419c62a973b4a179de82a97a3cd8944/artifacts
+end_time: 1700596443385
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a419c62a973b4a179de82a97a3cd8944
+run_name: capable-grouse-365
+run_uuid: a419c62a973b4a179de82a97a3cd8944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700596417674
+status: 3
+tags: []
+user_id: lylewilliams

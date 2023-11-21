@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/89bfb0db385b4a2a934f6765533bf10b/artifacts
+end_time: 1700596548298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89bfb0db385b4a2a934f6765533bf10b
+run_name: sneaky-quail-580
+run_uuid: 89bfb0db385b4a2a934f6765533bf10b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700596443420
+status: 3
+tags: []
+user_id: lylewilliams
