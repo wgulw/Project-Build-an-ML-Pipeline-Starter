@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/181362a942f847aaa4c7a3fb9e2b871e/artifacts
+end_time: 1700590603093
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 181362a942f847aaa4c7a3fb9e2b871e
+run_name: masked-quail-499
+run_uuid: 181362a942f847aaa4c7a3fb9e2b871e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700590577470
+status: 4
+tags: []
+user_id: lylewilliams

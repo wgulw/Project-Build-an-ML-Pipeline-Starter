@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/edcd1095d65d497a850010a7d0b9208d/artifacts
+end_time: 1700584173434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edcd1095d65d497a850010a7d0b9208d
+run_name: youthful-steed-302
+run_uuid: edcd1095d65d497a850010a7d0b9208d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700584168334
+status: 4
+tags: []
+user_id: lylewilliams

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c090cbb0f34342d6a8b78a63b5255577/artifacts
+end_time: 1700583757952
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c090cbb0f34342d6a8b78a63b5255577
+run_name: clean-ant-861
+run_uuid: c090cbb0f34342d6a8b78a63b5255577
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700583752930
+status: 4
+tags: []
+user_id: lylewilliams

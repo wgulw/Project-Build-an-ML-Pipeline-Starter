@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1dd8673a3c0e4215b90c2ade5d0d137b/artifacts
+end_time: 1700586516824
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1dd8673a3c0e4215b90c2ade5d0d137b
+run_name: unequaled-lark-700
+run_uuid: 1dd8673a3c0e4215b90c2ade5d0d137b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700586263025
+status: 3
+tags: []
+user_id: lylewilliams

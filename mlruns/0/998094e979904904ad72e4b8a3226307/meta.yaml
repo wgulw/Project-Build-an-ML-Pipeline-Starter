@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/998094e979904904ad72e4b8a3226307/artifacts
+end_time: 1700590377308
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 998094e979904904ad72e4b8a3226307
+run_name: monumental-crane-870
+run_uuid: 998094e979904904ad72e4b8a3226307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700590346962
+status: 4
+tags: []
+user_id: lylewilliams

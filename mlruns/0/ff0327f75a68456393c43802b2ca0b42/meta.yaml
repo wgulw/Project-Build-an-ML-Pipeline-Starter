@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ff0327f75a68456393c43802b2ca0b42/artifacts
+end_time: 1700588910520
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff0327f75a68456393c43802b2ca0b42
+run_name: inquisitive-cow-124
+run_uuid: ff0327f75a68456393c43802b2ca0b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700588545841
+status: 4
+tags: []
+user_id: lylewilliams

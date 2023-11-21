@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9698d2ca51984f4496e077daf4891540/artifacts
+end_time: 1700584311485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9698d2ca51984f4496e077daf4891540
+run_name: ambitious-conch-954
+run_uuid: 9698d2ca51984f4496e077daf4891540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700584306434
+status: 4
+tags: []
+user_id: lylewilliams

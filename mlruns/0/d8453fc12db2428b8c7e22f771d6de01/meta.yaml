@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d8453fc12db2428b8c7e22f771d6de01/artifacts
+end_time: 1700591114793
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8453fc12db2428b8c7e22f771d6de01
+run_name: welcoming-stag-81
+run_uuid: d8453fc12db2428b8c7e22f771d6de01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700590938487
+status: 3
+tags: []
+user_id: lylewilliams

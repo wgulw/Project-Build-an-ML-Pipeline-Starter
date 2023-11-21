@@ -1,0 +1,69 @@
+{
+    "os": "Linux-5.15.133.1-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-11-21T16:56:18.700000",
+    "startedAt": "2023-11-21T16:56:17.783276",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv",
+        "--csv",
+        "nyc_airbnb/clean_sample.csv:latest",
+        "--ref",
+        "nyc_airbnb/clean_sample.csv:reference",
+        "--kl_threshold",
+        "0.2",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "/home/lylewilliams/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/pytest",
+    "git": {
+        "remote": "https://github.com/wgulw/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": null,
+    "root": "/home/lylewilliams/Project-Build-an-ML-Pipeline-Starter",
+    "host": "DESKTOP-6LTT189",
+    "username": "lylewilliams",
+    "executable": "/home/lylewilliams/miniconda3/envs/mlflow-af6473294b18f57ea960125076520147a7a4be59/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 3592.396,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3592.396,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3592.396,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3592.396,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 3592.396,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 1006.853931427002,
+        "used": 12.826103210449219
+    },
+    "memory": {
+        "total": 7.241024017333984
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/55cac0728ce64acdadb3558c1608919e/artifacts
+end_time: 1700591219538
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55cac0728ce64acdadb3558c1608919e
+run_name: salty-elk-108
+run_uuid: 55cac0728ce64acdadb3558c1608919e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700591115120
+status: 3
+tags: []
+user_id: lylewilliams

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7b553bd057d04ab6ae0f5799e6c9caf9/artifacts
+end_time: 1700590376735
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b553bd057d04ab6ae0f5799e6c9caf9
+run_name: entertaining-vole-43
+run_uuid: 7b553bd057d04ab6ae0f5799e6c9caf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700590355217
+status: 4
+tags: []
+user_id: lylewilliams

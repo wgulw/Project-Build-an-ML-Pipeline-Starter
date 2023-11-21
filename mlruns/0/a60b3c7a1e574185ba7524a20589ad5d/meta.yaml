@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a60b3c7a1e574185ba7524a20589ad5d/artifacts
+end_time: 1700591410595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a60b3c7a1e574185ba7524a20589ad5d
+run_name: whimsical-koi-962
+run_uuid: a60b3c7a1e574185ba7524a20589ad5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700590834944
+status: 3
+tags: []
+user_id: lylewilliams

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d62d0dc88571457597c85f3b0863692b/artifacts
+end_time: 1700586516471
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d62d0dc88571457597c85f3b0863692b
+run_name: big-wolf-274
+run_uuid: d62d0dc88571457597c85f3b0863692b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700586270484
+status: 3
+tags: []
+user_id: lylewilliams

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ba3948f4c3d1426baf35737761427278/artifacts
+end_time: 1700408088741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba3948f4c3d1426baf35737761427278
+run_name: glamorous-elk-26
+run_uuid: ba3948f4c3d1426baf35737761427278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700408020098
+status: 3
+tags: []
+user_id: lylewilliams

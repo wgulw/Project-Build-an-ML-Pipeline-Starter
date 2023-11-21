@@ -1,0 +1,15 @@
+artifact_uri: file:///home/lylewilliams/Project-Build-an-ML-Pipeline-Starter/mlruns/0/48a7b47cf72a4b528d2d35542bb5dc42/artifacts
+end_time: 1700408089094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48a7b47cf72a4b528d2d35542bb5dc42
+run_name: bald-hawk-117
+run_uuid: 48a7b47cf72a4b528d2d35542bb5dc42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700408014235
+status: 3
+tags: []
+user_id: lylewilliams
